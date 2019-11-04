@@ -1,1 +1,9 @@
 naive bayes classifier
+
+some errors:
+1.UnicodeDecodeError: ‘gbk’ codec can’t decode byte 0xae in position 199: illegal multib 
+  email\ham\23.txt include illegal character  '?'  delete it
+
+the given RSS feeds are unavailable， replace them with:
+  https://newyork.craigslist.org/search/res?format=rss
+  https://sfbay.craigslist.org/search/apa?format=rss
