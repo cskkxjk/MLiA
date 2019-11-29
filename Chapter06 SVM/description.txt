@@ -1,0 +1,2 @@
+This is about Support Vector Machine!
+Including a simple version and a full version of smo algorithm
